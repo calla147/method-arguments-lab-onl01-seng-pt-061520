@@ -1,5 +1,5 @@
 # lib/introduction.RUBY_VERSION
 
-def introduction (Josh)
-  "Hi, my name is #{Josh}"
+def introduction (josh)
+  "Hi, my name is #{josh}"
 end
